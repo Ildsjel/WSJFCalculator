@@ -1,0 +1,5 @@
+{
+  "name": "WSJF Master",
+  "description": "A comprehensive Weighted Shortest Job First (WSJF) calculator and tracker supporting Avoid Cost, Reduce Cost, Protect Revenue, and Increase Revenue strategies with persistent storage.",
+  "requestFramePermissions": []
+}
